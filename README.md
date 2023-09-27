@@ -1,4 +1,4 @@
-👋 Hi, I'm @rizny786
+👋 Hi, I'mRizny Mubara
 
 - 👀 I'm a passionate technologist specializing in Data Science, advanced analytics, AI, ML, and DL.
 - 🌱 Currently, I'm pursuing a Master's degree in Data Science at Skövde University, honing my skills in these areas.
