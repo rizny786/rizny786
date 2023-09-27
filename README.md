@@ -1,4 +1,4 @@
-👋 Hi, I'mRizny Mubara
+👋 Hi, I'm Rizny Mubarak
 
 - 👀 I'm a passionate technologist specializing in Data Science, advanced analytics, AI, ML, and DL.
 - 🌱 Currently, I'm pursuing a Master's degree in Data Science at Skövde University, honing my skills in these areas.
