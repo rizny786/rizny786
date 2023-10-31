@@ -14,3 +14,4 @@
 - 📫 You can reach me via rizny786@gmail.com.
 
 Let's harness the power of Data Science and AI/ML to drive advanced analytics and create impactful solutions!
+Training - [Link to Microsoft Training](/training)
