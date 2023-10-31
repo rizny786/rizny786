@@ -14,4 +14,5 @@
 - 📫 You can reach me via rizny786@gmail.com.
 
 Let's harness the power of Data Science and AI/ML to drive advanced analytics and create impactful solutions!<br>
-Training - [Link to Microsoft Training](https://learn.microsoft.com/api/achievements/share/en-us/RiznyMubarak-6916/QD5BTNBE?sharingId=E456621B10F2B95)
+Training:
+- [PyTorch Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/RiznyMubarak-6916/QD5BTNBE?sharingId=E456621B10F2B95)
