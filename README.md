@@ -13,5 +13,5 @@
 - 💼 I'm actively seeking collaborative opportunities in projects that involve Data Science, AI, ML, and DL to create innovative solutions.
 - 📫 You can reach me via rizny786@gmail.com.
 
-Let's harness the power of Data Science and AI/ML to drive advanced analytics and create impactful solutions!
+Let's harness the power of Data Science and AI/ML to drive advanced analytics and create impactful solutions!<br>
 Training - [Link to Microsoft Training](/training)
